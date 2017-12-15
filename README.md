@@ -7,6 +7,6 @@ You can check the current status of the site here: https://marmaladefm.herokuapp
 ![screen shot 2017-12-15 at 22 36 17](https://user-images.githubusercontent.com/9334646/34061388-6a7d352a-e1e8-11e7-8ae0-af32b3968835.png)
 
 # Dependencies
-- React
-- React-router
-- Mixcloud API
+- React - https://reactjs.org/
+- React-router - https://reacttraining.com/react-router/
+- Mixcloud API - https://www.mixcloud.com/developers/
